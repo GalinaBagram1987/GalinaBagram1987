@@ -24,11 +24,12 @@
 
 ## 📂 Проекты
 
-   🔧 Тестрвое задание от компании tablecrm.
+   🔧 Тестовое задание от компании tablecrm.
       Мобильная касса
       - Задача: разрботать автономную мобильную кассу для приложения на телефоне
       - Стек технологий: JavaScript (ES6+) — основной язык разработки. Next.js (App Router), React, shadcn/ui +  Tailwind CSS, Lucide React, React Hook Form + Zod, Redux Toolkit, Redux Thunk, Axios, Next.js API Route (Proxy), REST API
       - для меня проект очень расширил кругозор. рада что его реализовала.
+      https://github.com/GalinaBagram1987/testJobTablecrm
 
    🔧 Лендинг Фокспринт.рф.
       - Задача: дизайн, написание кода, продвижение
