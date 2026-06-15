@@ -25,9 +25,15 @@
   🤝 Ищу команду, в которой можно расти и есть классные наставники
 
 ## 📂 Проекты
+   🔧 Конвектор из Pixi в Skia
+      - Задача разработать конвектор из Pixi в Skia, чтобы из него был экспорт в пдф. в пдф должны содержаться векторные изображения  (не растровую копию canvas). 
+      - Стек технологий: TypeScript - язык разработки. Next.js (App Router), React, shadcn/ui +  Tailwind CSS, Zustand (для отслеживания состояния), PIXI, Skia (CanvasKit), jspdf.
+      - цели проекта для меня: изучение работы с графикой и анимцией на фронте (Pixi), изучение работы с графикой Skia, Zustand - как альтернатива Redux, отработка TS.
+      - ссылки на результат
+      https://github.com/GalinaBagram1987/pixiToSkiaConv/blob/main/my-next-app/package.json
+      https://pixi-to-skia-conv.vercel.app/
 
-   🔧 Тестовое задание от компании tablecrm.
-      Мобильная касса
+   🔧 Мобильная касса
       - Задача: разрботать автономную мобильную кассу для приложения на телефоне
       - Стек технологий: JavaScript (ES6+) — основной язык разработки. Next.js (App Router), React, shadcn/ui +  Tailwind CSS, Lucide React, React Hook Form + Zod, Redux Toolkit, Redux Thunk, Axios, Next.js API Route (Proxy), REST API
       - для меня проект очень расширил кругозор. рада что его реализовала.
